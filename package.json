@@ -1,0 +1,16 @@
+{
+  "name": "domas",
+  "version": "1.0.0",
+  "description": "email",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular-template": "^2.0.9",
+    "juice": "^2.0.0",
+    "nodemailer": "^2.4.2"
+  }
+}
